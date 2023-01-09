@@ -11,6 +11,6 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git!
+Hello git! not ffe30a
 Hello git! branch ffe30a
 Hello git! branch test
