@@ -12,5 +12,5 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git! branch ffe30a
+Hello git! branch ffe30a * 2
 Hello git! branch test
