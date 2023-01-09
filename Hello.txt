@@ -2,6 +2,7 @@ Hello git! shi lian 10 huang
 Hello git! shi lian hot-fix huang 
 Hello git! ma ma sheng de
 Hello git! ba ba sheng de
+Hello git! 
 Hello git!
 Hello git!
 Hello git!
@@ -12,5 +13,4 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git!
-Hello git!
+Hello git! test in master
