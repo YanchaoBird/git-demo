@@ -8,14 +8,9 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
+Hello git!!!!
 Hello git!
 Hello git!
-Hello git!
-<<<<<<< HEAD
-Hello git!
-Hello git! branch ffe30a * 2
-=======
 Hello git! not ffe30a
 Hello git! branch ffe30a
->>>>>>> hot-fix
 Hello git! branch test
